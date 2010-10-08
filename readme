@@ -1,11 +1,11 @@
-#### Unnoetiger Hinweiﬂ ####
+#### Unnoetiger Hinweis ####
 GPL2-Lizenz liegt im Ordner bei. File lautet LICENSE
 Very first Beta. 
 
 
 #### Benoetigt ####
 Perl
-otrtool von PryoPeter (lol)
+otrtool von PyroPeter (lol)
 Tk
 Tk::FileSelect
 Tk::ProgressBar

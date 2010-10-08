@@ -1,13 +1,12 @@
 #!/usr/bin/perl 
 # 
-# Control PryoPeters otrtool by a GUI
+# Control PyroPeters otrtool by a GUI
 #
 #
 use Tk;
 use Tk::FileSelect;
 require Tk::ProgressBar;
 use File::HomeDir;
-use Switch;
 $version = "OTRtool-GUI 0.01";
 $home    = File::HomeDir->my_home; #Homedir des Users
 my %prefvalue;
