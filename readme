@@ -1,0 +1,36 @@
+#### Unnoetiger Hinweiﬂ ####
+GPL2-Lizenz liegt im Ordner bei. File lautet LICENSE
+Very first Beta. 
+
+
+#### Benoetigt ####
+Perl
+otrtool von PryoPeter (lol)
+Tk
+Tk::FileSelect
+Tk::ProgressBar
+File::HomeDir
+
+
+#### Geschichte ####
+Es war mal ein Eddy, er wollte sich den onlinetvrecorder-Decoder anschauen. 
+Er schrieb einen Decoder, veroeffentlichte ihn und wurde bedroht[1]. Eines
+Tages kam PyroPeter, er schrieb den Decoder neu, viel sauberer[2]. 
+Doch war dies nicht genug, den es war ein Tool fuer die Console. Was 
+sollten nun die ganzen Klicki-buntu-Menschen machen?  
+Deswegen schrieb ich diese GUI. Und so lebten alle gluecklich und zu-
+frieden bis ans Ende ihrer Tage.
+
+[1]
+http://41yd.de/blog/2010/05/16/des-kaisers-neue-kleider/
+[2]
+http://github.com/pyropeter/otrtool
+
+
+#### Todo ####
+- Error-Handling
+- Code saeubern
+- Bugs fixen
+- Versuchen noch naeher das Design vom Orginal treffen
+
+
